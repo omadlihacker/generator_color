@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(231, 252, 252);
+    flex-direction: column;
+}
+
+button {
+    outline: none;
+    font-size: 20px;
+}
